@@ -35,6 +35,8 @@ No arquivo `theme.properties` do seu tema personalizado:
 
 ```properties
 projectLogo=https://cdn.jsdelivr.net/gh/seunome/recruta-assets@latest/logo.svg
+
+https://cdn.jsdelivr.net/gh/RicardoSantosSantana/recruta-img@latest/recruta-write-light-green.svg
 ```
 
 ---
